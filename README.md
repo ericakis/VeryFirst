@@ -1,0 +1,1 @@
+This is my very first repository made with Python (actually my first repository made ever in my whole life :)). I have started studying programming yesterday and spent 3 hours on it and this is the result.
