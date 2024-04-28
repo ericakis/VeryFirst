@@ -1,0 +1,11 @@
+course = 'Python for beginners'
+print (course)
+print (course.upper ())
+print (course.lower ())
+print (course.find ("n"))
+print (course.count ("n"))
+print (course.find ("Y"))
+print (course.find ("for"))
+print (course.replace ("for", "4"))
+print (course. find ("Python"))
+print ("Python" in course)
